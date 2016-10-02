@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: <font size="5"> "Changing the way you shop. Forever." </font>
+  - text: "Shopping, made easier"
   - text: "Modernizing retail"
 
 me-img: "/img/jetpacktocat.png"
@@ -114,7 +114,7 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: "July 2016"
     description: "Rover was Born!"
-  - image: "/img/labtocat.png"
+  - image: "/img/timeline/labtocat.png"
     date: "August 2016 - Today"
     description: "App Development!"
 
