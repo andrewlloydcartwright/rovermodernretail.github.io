@@ -41,7 +41,13 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "/img/Rover-logo-new.png"
+background-img: class= "smaller-image" "/img/Rover-logo-new.png"
+
+<style>
+  .smaller-image{
+  width: 200px;
+  }
+</style>
 
 ##############################
 # Dynamic Text on the Header #
