@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "rovermodernretail.github.io/img/Rover-logo-new.png"
+background-img: "/img/Rover logo new.png"
 
 ##############################
 # Dynamic Text on the Header #
