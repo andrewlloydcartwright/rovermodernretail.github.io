@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
+author: "Robert James"
 title: "{ Rover }"
 description: "Making Retail Moden"
 keywords: "rover, modern, retail, robert"
@@ -112,11 +112,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "July 2016"
-    description: "Rover was Born!"
+    date: "2016"
+    description: "Rover was Born"
   - image: "/img/timeline/labtocat.png"
     date: "August 2016 - Today"
-    description: "App Development!"
+    description: "App Development"
 
 # First image of the Timeline
 
