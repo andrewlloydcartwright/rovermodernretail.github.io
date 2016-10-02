@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Changing your shopping experience through innovation and technology."
-  - text: "Making retail Modern"
+  - text: "Changing the way you shop. Forever."
+  - text: "Modernizing retail"
 
 me-img: "/img/jetpacktocat.png"
 
