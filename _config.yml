@@ -39,7 +39,7 @@ favicon: "/img/Rovercart_white.ico"
 # Header layout #
 ################
 
-white-favicon: "/img/Rovercart_white.ico"
+black-favicon: "/img/Rovercart_white.ico"
 
 background-img: "/img/black-wallpaper-3.jpg"
 
