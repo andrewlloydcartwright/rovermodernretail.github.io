@@ -46,6 +46,7 @@ background-img: "/img/black-wallpaper-3.jpg"
 ##############################
 # Dynamic Text on the Header #
 ##############################
+<p> hi </p>
 
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
