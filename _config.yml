@@ -33,13 +33,13 @@ author: "Robert James"
 title: "Rover"
 description: "Modern retail"
 keywords: "rover, modern, retail, robert"
-favicon: "/img/Rovercart_white.png"
+favicon: "/img/Rovercart_white.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/Rovercart_white.ico"
 
 background-img: "/img/black-wallpaper-3.jpg"
 
