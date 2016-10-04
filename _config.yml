@@ -152,7 +152,7 @@ social:
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
   - title: "rss"
     url: "/feed.xml"
-
+    
 ############
 # 404 page #
 ############
