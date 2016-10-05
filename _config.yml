@@ -55,7 +55,7 @@ type-speed: 9
 start-delay: 200
 delete-delay: 4900
 lines: # You can add HTML Tags in the Text
- - text <font size="6">: "Shopping, made easier"
+ - text: "Shopping, made easier"
  - text: "Modernizing retail"
 
 me-img: "/img/rovercart.png"
@@ -149,9 +149,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/rovermodernretail"
     
 ############
 # 404 page #
