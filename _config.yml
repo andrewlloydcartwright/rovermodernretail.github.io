@@ -55,7 +55,7 @@ type-speed: 9
 start-delay: 200
 delete-delay: 4900
 lines: # You can add HTML Tags in the Text
- - text: "Real-time inventory <font color:#ffffe6> searchability </font>"
+ - text: "Real-time inventory <font color=#ffffe6> searchability </font>"
  - text: "Mobile checkoutingness"
 
 me-img: "/img/rovercart.png"
