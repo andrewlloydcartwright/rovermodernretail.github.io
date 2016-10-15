@@ -41,7 +41,7 @@ favicon: "/img/rovercart.ico"
 
 black-favicon: "/img/RoverCart16.png"
 
-background-img: "/img/awesome-wallpaer.jpg"
+background-img: "/img/Umbrellas_at_Caudan_Waterfront_Mall.JPG"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,7 +55,7 @@ type-speed: 9
 start-delay: 200
 delete-delay: 4900
 lines: # You can add HTML Tags in the Text
- - text: "Real-time inventory <font color= #339933> searchability </font>"
+ - text: "<font size= 13 color #339933=> Real-time inventory searchability </font>"
  - text: "Mobile checkoutingness"
 
 me-img: "/img/rovercart.png"
