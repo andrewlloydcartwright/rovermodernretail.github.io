@@ -9,7 +9,12 @@
 <br><br><br><br><br><br>
              <img align="middle" class= "logo" src= "/img/Rovercart_white-2.png" alt= "Rover.logo">
 <br><br><br>
-            <div> <span class="intro-text" class="text_bg">{{ content }}</span> </div>
+            <div> 
+              <div class="transbox1">
+                <div class="backgroundbox">
+              <span class="intro-text">{{ content }}</span> </div>
+              </div>
+            </div>
               <h1 class="brand-heading">&nbsp;</h1>
               <h5>&nbsp;</h5>
               <a href="#{{ site.pages_list['About'] }}" class="page-scroll">
@@ -53,10 +58,26 @@
 .cta-button:hover {
   background-color: LightBlue;
 }
-  
-.text_bg {
-  background-color: #4d4d4d;
-    padding: 3px;
+
+ .backgroundbox {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+
+ .transbox1 {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+  .transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}  
+
 }  
 </style>
   
