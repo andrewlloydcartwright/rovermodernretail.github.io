@@ -1,4 +1,4 @@
-
+e
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -136,7 +136,7 @@ email: robert@rovermodernretail.com
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Robert is the founder of Rover, and a marketing student at the University of Alabama at Birmingham in Birmingham, Alabama. When not in class or "at work", he likes to play Dota 2 and learn how to make a website.
+author_blurb: "Robert is the founder of Rover, and a marketing student at the University of Alabama at Birmingham in Birmingham, Alabama. When not in class or "at work", he likes to play Dota 2 and learn how to make a website."
 author_blurb_image: "/img/author.png"
 
 ##################
