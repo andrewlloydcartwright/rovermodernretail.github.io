@@ -136,7 +136,7 @@ email: robert@rovermodernretail.com
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Robert is the adventurous CEO of Rover who studies marketing at The University of Alabama at Birmingham. He loves to read, play ultimate frisbee, and pretend to be good at programming."
+author_blurb: "Robert is the adventurous CEO of Rover who studies marketing at The University of Alabama at Birmingham. He loves to read, play ultimate frisbee, and pretend to do "the programming"."
 author_blurb_image: "/img/robert_in_london.jpg"
 
 ##################
